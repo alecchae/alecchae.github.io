@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a803a5a.css",
-    "main.js": "/static/js/main.1b731af8.js",
+    "main.css": "/static/css/main.4f41a05f.css",
+    "main.js": "/static/js/main.1a0c7f10.js",
     "static/media/profilepicture.jpg": "/static/media/profilepicture.79ca90805e3603cf760d.jpg",
     "static/media/TAapplication.png": "/static/media/TAapplication.729357e49f0b03df0c4f.png",
     "static/media/simplebackground.jpg": "/static/media/simplebackground.9ee90238a9bcfb20ba84.jpg",
@@ -9,12 +9,16 @@
     "static/media/contentrecommendation.PNG": "/static/media/contentrecommendation.44dc6156bc965a670b38.PNG",
     "static/media/aboutbackground.webp": "/static/media/aboutbackground.b02b49da8d8cd5e0dc37.webp",
     "static/media/projectsbackground.webp": "/static/media/projectsbackground.b6b5336448d56cd99806.webp",
+    "static/media/league-spartan-all-400-normal.woff": "/static/media/league-spartan-all-400-normal.63d127d27993ec6f782d.woff",
+    "static/media/league-spartan-latin-400-normal.woff2": "/static/media/league-spartan-latin-400-normal.ff90845b5ef1a629271a.woff2",
+    "static/media/league-spartan-latin-ext-400-normal.woff2": "/static/media/league-spartan-latin-ext-400-normal.8915f44a464c0038a068.woff2",
+    "static/media/league-spartan-vietnamese-400-normal.woff2": "/static/media/league-spartan-vietnamese-400-normal.e8ad14433ca56ca2d3c0.woff2",
     "index.html": "/index.html",
-    "main.5a803a5a.css.map": "/static/css/main.5a803a5a.css.map",
-    "main.1b731af8.js.map": "/static/js/main.1b731af8.js.map"
+    "main.4f41a05f.css.map": "/static/css/main.4f41a05f.css.map",
+    "main.1a0c7f10.js.map": "/static/js/main.1a0c7f10.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a803a5a.css",
-    "static/js/main.1b731af8.js"
+    "static/css/main.4f41a05f.css",
+    "static/js/main.1a0c7f10.js"
   ]
 }
