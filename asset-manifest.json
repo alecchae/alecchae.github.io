@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4f41a05f.css",
-    "main.js": "/static/js/main.1a0c7f10.js",
+    "main.js": "/static/js/main.f48937f7.js",
     "static/media/profilepicture.jpg": "/static/media/profilepicture.79ca90805e3603cf760d.jpg",
     "static/media/TAapplication.png": "/static/media/TAapplication.729357e49f0b03df0c4f.png",
     "static/media/simplebackground.jpg": "/static/media/simplebackground.9ee90238a9bcfb20ba84.jpg",
@@ -15,10 +15,10 @@
     "static/media/league-spartan-vietnamese-400-normal.woff2": "/static/media/league-spartan-vietnamese-400-normal.e8ad14433ca56ca2d3c0.woff2",
     "index.html": "/index.html",
     "main.4f41a05f.css.map": "/static/css/main.4f41a05f.css.map",
-    "main.1a0c7f10.js.map": "/static/js/main.1a0c7f10.js.map"
+    "main.f48937f7.js.map": "/static/js/main.f48937f7.js.map"
   },
   "entrypoints": [
     "static/css/main.4f41a05f.css",
-    "static/js/main.1a0c7f10.js"
+    "static/js/main.f48937f7.js"
   ]
 }
