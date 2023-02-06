@@ -1,0 +1,31 @@
+.aboutPage{ 
+    width: 100%;
+    height: 160vh;
+    align-items: center;
+    justify-content: center;  
+    font-family: "League Spartan";
+}
+
+.aboutContent{
+    position: absolute;
+    top: 6rem;
+    left: 6rem;
+    right: 6rem;
+    text-align: center;
+}
+
+@media all and (max-width:30em){
+    .aboutPage{ 
+        width: 100%;
+        height: 130vh;
+    }
+    .aboutContent{
+        top: 4rem;
+        left: 1rem;
+        right: 1rem;
+        text-align: center;
+    }
+    embed{
+        height: 300px;
+    }
+}

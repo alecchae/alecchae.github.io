@@ -1,0 +1,30 @@
+.projectsPage{ 
+    width: 100%;
+    height: 200vh;
+    
+    font-family: "League Spartan";
+}
+.first{
+    top:2rem;
+}
+
+.cardimage{
+    width: 100%;
+    height: 25vw;
+    object-fit: contain;
+}
+
+.card-title.h5{
+    font-size: 1.85rem;
+}
+
+.card-text{
+    font-size:1.25em
+}
+
+.projectcontainer{
+    text-align: center;
+    position: absolute;
+    top: 6rem;
+    text-align: center;
+}
